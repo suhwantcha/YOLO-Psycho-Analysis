@@ -1,0 +1,5 @@
+path: /content/drive/MyDrive/DeepLearning/data
+train: images/train
+val: images/val
+nc: 13
+names: ["집전체", "문", "창문", "울타리", "길", "태양", "굴뚝", "지붕", "연기", "나무", "꽃", "잔디", "연못"]
