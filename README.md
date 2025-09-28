@@ -62,8 +62,7 @@ Uploading the `YOLO_Prj.ipynb` file to Colab and running the cells sequentially 
 | **4. Psychological Analysis** | `main.py` logic | Loads the trained `best.pt` weights, performs object detection on the test image, and runs the custom analysis pipeline. |
 
 #### Augmented Batch Example
-![train_batch2](https://github.com/user-attachments/assets/76cf6d83-b473-4aff-92bf-7d2dce358454)
-
+<img src="https://github.com/user-attachments/assets/76cf6d83-b473-4aff-92bf-7d2dce358454" width="200" alt="Augmented Batch Example"/>
 
 -----
 
