@@ -61,6 +61,10 @@ Uploading the `YOLO_Prj.ipynb` file to Colab and running the cells sequentially 
 | **3. YOLOv8 Model Training** | `train_model.py` logic | Starts YOLOv8 model training based on the `data.yaml` configuration. **(User execution required)** |
 | **4. Psychological Analysis** | `main.py` logic | Loads the trained `best.pt` weights, performs object detection on the test image, and runs the custom analysis pipeline. |
 
+#### Augmented Batch Example
+![train_batch2](https://github.com/user-attachments/assets/76cf6d83-b473-4aff-92bf-7d2dce358454)
+
+
 -----
 
 ## 🧠 2. Local Environment Execution
